@@ -1,5 +1,5 @@
 #!Bin/Bash/
-# DevOps Zero to Architect 🚀
+# DevOps Zero to Master
 
 Hi, I'm Manisha.
 
