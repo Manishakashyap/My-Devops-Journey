@@ -1,0 +1,98 @@
+  690  mkdir devops-practice
+  691  ls devops-practice/
+  692  ls
+  693  mkdir manisha-devops-learning
+  694  ls manisha-devops-learning/
+  695  touch Networking Linux AWS Images Projects
+  696  git init
+  697  git status
+  698  ls
+  699  git add manisha-devops-learning/
+  700  git status
+  701  cd manisha-devops-learning/
+  702  git status
+  703  cd ..
+  704  git status
+  705  git add manisha-devops-learning/
+  706  git commit -m "My devops-learning work"
+  707  ls
+  708  cd manisha-devops-learning/
+  709  ls
+  710  mkdir Networking Linux Git AWS Images Projects
+  711  ls
+  712  cd ..
+  713  git status
+  714  cd manisha-devops-learning/
+  715  cd Networking/
+  716  touch README.md OSI-Model.md TCP-IP.md DNS.md HTTP-HTTPS.md SSH.md Interview-QUestions.md
+  717  ls
+  718  cd ..
+  719  git status
+  720  cd manisha-devops-learning/
+  721  cd Networking
+  722  sudo nano README.md 
+  723  cd ..
+  724  ls
+  725  touch README.md
+  726  sudo nano README.md 
+  727  cat README.md 
+  728  CD ..
+  729  cd ..
+  730  git status
+  731  git add manisha-devops-learning/
+  732  git status 
+  733  git commit -m "Documenting my journey to DevOps Engineer"
+  734  git push origin master
+  735  git push -p origin master
+  736  git push -u origin master
+  737  git remote add origin https://github.com/Manishakashyap/My-Devops-Journey.git
+  738  git push -u origin master
+  739  git status 
+  740  cd devops-practice/
+  741  ls
+  742  cd foodexpress/
+  743  ls
+  744  cd ..
+  745  echo 'print("Order Created")' >> app.py
+  746  cat app.py 
+  747  git status
+  748  git diff
+  749  ls
+  750  cd foodexpress/
+  751  echo 'print("Order Created")' >> app.py
+  752  cat app.py 
+  753  git status
+  754  git diff
+  755  echo 'print("DEBUG MODE")' >> app.py
+  756  cat app.py
+  757  git diff
+  758  ls
+  759  cd ../..
+  760  ls
+  761  cd manisha-devops-learning/
+  762  ls
+  763  cd Git/
+  764  ls
+  765  touch README.md
+  766  sudo nano README.md 
+  767  git status
+  768  cd ..
+  769  git status
+  770  git add Git/
+  771  git status
+  772  git commit -m "README for the GIt - what i have learned in Git"
+  773  git push -u origin master
+  774  git status
+  775  ls -a
+  776  git remote -v
+  777  git log --oneline --graph --all
+  778  git branch -vv
+  779  git fetch origin
+  780  git log --oneline --graph --all
+  781  git remote show origin
+  782  git pull origin master --allow-unrelated-histories
+  783  git status
+  784  git add README.md
+  785  git commit -m "Merge remote README changes"
+  786  git push origin master
+  787  history
