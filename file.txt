@@ -1,0 +1,1 @@
+I have today learned about Git merge, Git Fast-Forward Merge, Merge Conflict nad do the hands-on tommorrow
