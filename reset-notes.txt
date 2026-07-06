@@ -10,3 +10,7 @@ Soft keeps staging area.
 Mixed keeps working directory.
 
 Hard deletes everything.
+
+This line is added for mixed reset practice.
+
+This line will be deleted by git reset --hard
