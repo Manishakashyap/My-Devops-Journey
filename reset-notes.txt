@@ -4,3 +4,9 @@ Today I learned:
 - git reset --soft
 - git reset --mixed
 - git reset --hard
+
+Soft keeps staging area.
+
+Mixed keeps working directory.
+
+Hard deletes everything.
