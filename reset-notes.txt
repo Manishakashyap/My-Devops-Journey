@@ -1,0 +1,6 @@
+Git Reset Practice
+
+Today I learned:
+- git reset --soft
+- git reset --mixed
+- git reset --hard
